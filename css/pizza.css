@@ -1,0 +1,40 @@
+.navbar-default {
+    background-color:brown;
+    border-color:brown;
+    margin-bottom:0px; 
+    width: 100%;
+        color:white;
+}
+
+@media (min-width: 768px)
+.navbar {
+    border-radius: 0px;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+
+.carousel-content {
+    height: 558px;
+}
+
+.about-pizza{
+	margin-top: 3rem;
+	margin-bottom: 2rem;
+}
+
+.pizza-types{
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
+
+.footer{
+    background-color:brown;
+    padding: 1rem 0;
+    color: white;
+}
+.container-fluid{
+    color: white;
+}
